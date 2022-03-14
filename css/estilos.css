@@ -1,3 +1,9 @@
+.navbar-dark,.bg-dark{
+
+  background-color: orange!important;
+}
+
+
 .caja {
 
   /* border:solid;*/
@@ -28,4 +34,23 @@ z-index: -1;
 box-shadow: 0 0 0.5em rgba(0,0,0,0.5em);
 
 cursor:pointer;
+}
+
+.espacio{
+  
+  height: 100px;
+  margin-top: 10px;
+}
+
+.btn-group{
+
+height: 65px;
+margin-left: 32%;
+margin-top: 0px;
+
+}
+
+.row div[class^="col"]{
+background: pink;
+border:solid black;
 }
