@@ -64,7 +64,7 @@ font-family: 'Raleway', sans-serif;
 }
 .containerheader{
 height: 150px;
-width: auto;
+width: 100%;
   background-color: grey;
 }
 
