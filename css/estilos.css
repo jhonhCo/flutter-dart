@@ -55,34 +55,33 @@ body{
   
 }
 
-.containerbody{
+/* .containerbody{
 display: flex;
 flex-direction: column;
 font-family: 'Raleway', sans-serif;
 
-
-}
-.containerheader{
+} */
+/* .containerheader{
 height: 150px;
 width: 100%;
   background-color: grey;
   justify-content: center;
-}
+} */
 
 
 /* .containerheader{} */
 
 
-.container-uno {
+/* .container-uno {
   height:2200;
   width:1000px;
    /* border:solid 1px;  */
-    display: flex; 
+    /* display: flex; 
   justify-content: center;
  flex-direction: column; 
   text-align: justify;
   opacity: 0.93;
-  }
+  } */ 
 
   .navbar-light .navbar-nav .nav-link.active{
 
@@ -103,18 +102,18 @@ color: white;
 }
 h1{
 padding-left: 20px;
+background-color: grey;
 padding-top: 20px;
   color:white;
   font-family: 'Waiting for the Sunrise', cursive;
   font-style: italic;
-height: 100px;
+height: 120px;
 border-bottom:solid 1px;
-border-top: solid 1px;
+border-top: solid 2px;
 }
 
-.containerheader{
+.containercenter{
 
-border-bottom: solid 1px;
 
 
 }
@@ -132,7 +131,7 @@ border-bottom: solid 1px;
 
 
 
-.row div[class^="col"]{
+/* .row div[class^="col"]{ 
   /* margin:10px 10px 10px 10px; */
  /* justify-content: center;  */
  
@@ -140,12 +139,12 @@ border-bottom: solid 1px;
  width: auto;
   */
 /* background-color: aqua;  */
-/* border:solid 1px; */
+ /* border:solid 1px;  */
 
-} 
+ 
 
 .containerfooter {
-  background-color: #22272d; 
+  background-color: gray; 
  color: black;
  font-family: 'Waiting for the Sunrise', cursive;    
  width: 100%;
@@ -223,4 +222,19 @@ display:flex;
 justify-content: center;
 
 } */
+
+
+
+
+/* .container{
+height:2200;
+  width:1000px;
+border: solid 1px;
+display: flex;
+
+flex-direction: column;
+
+} */
+
+
 
