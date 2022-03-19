@@ -66,6 +66,7 @@ font-family: 'Raleway', sans-serif;
 height: 150px;
 width: 100%;
   background-color: grey;
+  justify-content: center;
 }
 
 
@@ -148,6 +149,7 @@ border-bottom: solid 1px;
  color: black;
  font-family: 'Waiting for the Sunrise', cursive;    
  width: 100%;
+ justify-content: center;
  }
  
  .containerfooter h4{
@@ -222,35 +224,3 @@ justify-content: center;
 
 } */
 
-.containerbody-1{
-height: 1200px;
-width: 1500px;
-border: solid 2px;
-display:flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-}
-
-
-
-.hijo1{
-  border:solid 1px;
-  height:300px ;
-  width: 300px;
-  background-color: blanchedalmond;
-}
-.hijo2{
-  border:solid 1px;
-  height:300px ;
-  width: 300px;
-  background-color: lightgreen;
-
-
-}
-.hijo3{
-  border:solid 1px;
-  height:300px ;
-  width: 300px;
-  background-color:lightgray;
-}
